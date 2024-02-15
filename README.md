@@ -29,3 +29,5 @@ You can download these files from the official YOLO website or repository.
    
 Customization
 You can customize the project by adjusting the confidence threshold, tweaking parameters, or using different pre-trained models for object detection.
+
+Author-- Ayush singh sikarwar
